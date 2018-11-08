@@ -13,5 +13,5 @@ A Basic Starter kit for C Language. It has basic includes and one Global Vairabl
 - conio.h
 - stdbool.h
 
-## Global Variables
+### Global Variables
 - **PI** : 3.14156
